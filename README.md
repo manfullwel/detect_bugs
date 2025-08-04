@@ -4,6 +4,17 @@ Uma ferramenta avançada em PowerShell para a análise forense de extensões em 
 
 ---
 
+### Demonstração em Ação
+
+Abaixo, uma captura de tela do **Navegador-Sentinela v3.1** em execução, realizando uma varredura completa no sistema em modo `Verbose` para um diagnóstico detalhado.
+
+> Olha só o bicho rodando! 🚀 Varredura total dos perfis com `-DiscoverProfiles -Verbose` pra não perder NADA! 🔍 No final, uns SIDs sem extensions (¯\\\_(ツ)\_/¯), mas o importante é que a análise principal ROLLOU! 🤘 Logs salvos na área de trabalho, partiu debulhar esses reports e caçar os "bad guys" das extensões!
+>  #PowerShell #Forensics #Cybersecurity #ExtensoesSuspas #VTIntegration #TaRodando #SemErros #GGWP
+
+![Execução do Navegador-Sentinela](https://github.com/manfullwel/detect_bugs/raw/main/keepgoing.jpg)
+
+---
+
 ### Minha Jornada: Da Intimidação à Ação
 
 Por muito tempo, o encontro com malwares e PUPs no meu próprio ambiente digital era uma fonte de intimidação. Eu via os alertas do antivírus, como tantos outros, e sentia uma mistura de curiosidade e receio. A complexidade do código malicioso parecia um labirinto, e a falta de inspiração muitas vezes me impedia de dar o primeiro passo. O medo de "começar" era real.
